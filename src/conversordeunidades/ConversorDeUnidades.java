@@ -236,6 +236,6 @@ public class ConversorDeUnidades {
         }
         continuar = JOptionPane.showInputDialog("Desea continuar en la aplicación?\nIngrese (SI/NO)");
         }while(continuar.equalsIgnoreCase("si"));
-                JOptionPane.showMessageDialog(null, "Program by Pixels21.\nSantiago Quintero Rincón.");
+                JOptionPane.showMessageDialog(null, "Program by Pixels21.\nSantiago.");
     }
 }
